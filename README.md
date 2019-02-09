@@ -9,4 +9,4 @@ This repository contains the companion code to go along with the [Visual Introdu
 
 All of the code can be found in the [python-list-comprehensions-in-5-minutes.ipynb](https://github.com/mrdbourke/python-list-comprehensions-tutorial/blob/master/python-list-comprehensions-in-5-minutes.ipynb) Jupyter Notebook and solution in [solution.ipynb](https://github.com/Darksoul101/python-list-comprehensions-solution/solution.ipynb).
 
-If you find an error or have any advice for a future tutorial, please let me know at daniel@mrdbourke.com.
+If you find an error or have any advice, please let me know at yash@yashsingh.ml.
